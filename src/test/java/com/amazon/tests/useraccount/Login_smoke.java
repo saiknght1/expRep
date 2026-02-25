@@ -11,6 +11,7 @@ public class Login_smoke extends BaseTest {
 
 
     @Test
+
     public void verifyUserCanLoginWithValidCreds() throws InterruptedException {
        // m=3;
         //System.out.println(m);
